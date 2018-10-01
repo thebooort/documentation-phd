@@ -23,4 +23,4 @@ preprocesamiento, procesamiento, y análisis de redes biológicas. Así
 como, utilizar técnicas de "transferlearning" para trasaladar
 resultados entre redes.
 
-word count: 150 (title included)
+word count: 156 (title included)
